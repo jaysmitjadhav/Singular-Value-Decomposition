@@ -12,7 +12,7 @@ Singular Value Decomposition (SVD) factorizes any real matrix A into a product o
 
 #### QR Decompostion
 Implemented QR Decomposition using Householder Reflections algorithm and Givens Rotations algorithm
-<img src="Images/results.jpg">
+<img src="Images/results.JPG">
 
 #### Error Plot
 n=4
